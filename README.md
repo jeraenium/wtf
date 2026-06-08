@@ -1,4 +1,5 @@
 # jeraenium
+– fantsised by [me](https://github.com/jbx6); written by [ChatGPT](https://chatgpt.com/)
 
 **A living garden, greenhouse, sensor network, and design system for more intelligent, ecological, human-scale growing.**
 
